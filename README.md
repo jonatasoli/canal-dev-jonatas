@@ -1,2 +1,3 @@
-# canal-dev-jonatas
-Repositório com códigos dos vídeos e sugestões de novos vídeos
+# Canal Dev Jônatas
+
+Aqui vou manter os códigos que falo dos vídeos além de receber sugestões através das issues.
