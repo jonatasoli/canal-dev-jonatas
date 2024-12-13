@@ -1,0 +1,12 @@
+[submodule "exemplo-borrow-ownership"]
+	path = exemplo-borrow-ownership
+	url = git@github.com:jonatasoli/exemplo-borrow-ownership.git
+[submodule "estruturas-repeticao"]
+	path = estruturas-repeticao
+	url = git@github.com:jonatasoli/estruturas-repeticao.git
+[submodule "exemplo-com-ratatui"]
+	path = exemplo-com-ratatui
+	url = git@github.com:jonatasoli/exemplo-com-ratatui.git
+[submodule "youtube-snake-bevy"]
+	path = youtube-snake-bevy
+	url = git@github.com:jonatasoli/youtube-snake-bevy.git
